@@ -1,0 +1,25 @@
+class Solution {
+public:
+    static const int MOD = 1e9 + 7;
+
+    // Fast power (binary exponentiation)
+    long long binpow(long long a, long long b) {
+        long long res = 1;
+        a %= MOD;
+        while (b > 0) {
+            if (b & 1)
+                res = (res * a) % MOD;
+            a = (a * a) % MOD;
+            b >>= 1;
+        }
+        return res;
+    }
+
+    int countGoodNumbers(long long n) {
+        long long evenPos = (n + 1) / 2; // positions with even index
+        long long oddPos = n / 2;        // positions with odd index
+
+        long long ans = (binpow(5, evenPos) * binpow(4, oddPos)) % MOD;
+        return (int)ans;
+    }
+};
