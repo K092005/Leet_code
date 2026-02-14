@@ -1,0 +1,51 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+
+class Solution {
+	bool validChar(char c)
+	{
+		if(c >= 'a' && c <= 'z') return true;
+		if(c >= 'A' && c <= 'Z') return true;
+		if(c >= '0' && c <= '9') return true;
+		return false;
+	}
+
+	bool isCharEqual(char a, char b)
+	{
+		if(a >= 'A' && a <= 'Z') a = a - 'A' + 'a';
+		if(b >= 'A' && b <= 'Z') b = b - 'A' + 'a';
+		return a == b;
+	}
+public:
+    bool isPalindrome(string s) {
+	    int n = s.size();
+	    int l = 0, r = n - 1;
+
+	    while(l < r)
+	    {
+		    if(!validChar(s[l]))
+		    {
+			    l++;
+			    continue;
+		    }
+
+		    if(!validChar(s[r]))
+		    {
+			    r--;
+			    continue;
+		    }
+
+		    // now you are sure that they are standing at valid idx
+		    if(!isCharEqual(s[l], s[r])) return false;
+		    l++;
+		    r--;
+	    }
+	    return true;
+    }
+};
+
+
+int main()
+{
+}
