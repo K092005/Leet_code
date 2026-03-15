@@ -5,7 +5,7 @@ public:
         if(p == nullptr && q == nullptr){
             return true;
         }
-        //if one of them is null
+        
           if(p == nullptr || q == nullptr || p->val != q->val){
             return false;
          }
