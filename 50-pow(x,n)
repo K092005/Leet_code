@@ -1,7 +1,7 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long N = n;  // Convert to long long to handle INT_MIN
+        long long N = n;  
         
         if (N < 0) {
             x = 1 / x;
@@ -19,7 +19,7 @@ public:
             
             x *= x;
             
-            // Divide exponent by 2
+            
             N /= 2;
         }
         
