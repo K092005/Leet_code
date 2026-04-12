@@ -34,7 +34,7 @@ public:
         return dummy->next;
     }
 
-    // Merge sort
+    
     ListNode* mergeSort(ListNode* head) {
         if (!head || !head->next) return head;
 
