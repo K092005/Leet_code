@@ -58,4 +58,8 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/K092005/Leet_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/K092005/Leet_code/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
