@@ -39,6 +39,7 @@ leetcode-problem-submissions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/K092005/Leet_code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/K092005/Leet_code/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/K092005/Leet_code/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +79,7 @@ leetcode-problem-submissions
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/K092005/Leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/K092005/Leet_code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
