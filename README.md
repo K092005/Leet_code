@@ -5,6 +5,7 @@ leetcode-problem-submissions
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/K092005/Leet_code/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K092005/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/K092005/Leet_code/tree/master/0283-move-zeroes) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/K092005/Leet_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -89,4 +90,8 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/K092005/Leet_code/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/K092005/Leet_code/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
