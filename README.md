@@ -8,6 +8,7 @@ leetcode-problem-submissions
 | [0039-combination-sum](https://github.com/K092005/Leet_code/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K092005/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/K092005/Leet_code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/K092005/Leet_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Two Pointers
 |  |
@@ -15,14 +16,17 @@ leetcode-problem-submissions
 | [0148-sort-list](https://github.com/K092005/Leet_code/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K092005/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/K092005/Leet_code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K092005/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/K092005/Leet_code/tree/master/0133-clone-graph) |
+| [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +54,7 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/K092005/Leet_code/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
 |  |
 | ------- |
