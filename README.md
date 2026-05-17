@@ -5,6 +5,7 @@ leetcode-problem-submissions
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/K092005/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/K092005/Leet_code/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K092005/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/K092005/Leet_code/tree/master/0283-move-zeroes) |
@@ -20,6 +21,7 @@ leetcode-problem-submissions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/K092005/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K092005/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -48,6 +50,7 @@ leetcode-problem-submissions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/K092005/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/K092005/Leet_code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/K092005/Leet_code/tree/master/0148-sort-list) |
 ## Sorting
