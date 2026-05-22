@@ -71,6 +71,7 @@ leetcode-problem-submissions
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/K092005/Leet_code/tree/master/0022-generate-parentheses) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/K092005/Leet_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ leetcode-problem-submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/K092005/Leet_code/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/K092005/Leet_code/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -101,5 +103,6 @@ leetcode-problem-submissions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/K092005/Leet_code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/K092005/Leet_code/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
