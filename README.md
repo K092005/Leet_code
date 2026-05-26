@@ -6,6 +6,7 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/K092005/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/K092005/Leet_code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/K092005/Leet_code/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K092005/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/K092005/Leet_code/tree/master/0283-move-zeroes) |
@@ -28,6 +29,7 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/K092005/Leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/K092005/Leet_code/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/K092005/Leet_code/tree/master/0133-clone-graph) |
 | [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Depth-First Search
@@ -108,4 +110,8 @@ leetcode-problem-submissions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/K092005/Leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/K092005/Leet_code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/K092005/Leet_code/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/K092005/Leet_code/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
