@@ -8,6 +8,7 @@ leetcode-problem-submissions
 | [0004-median-of-two-sorted-arrays](https://github.com/K092005/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/K092005/Leet_code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/K092005/Leet_code/tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/K092005/Leet_code/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K092005/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/K092005/Leet_code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
@@ -15,6 +16,7 @@ leetcode-problem-submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/K092005/Leet_code/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/K092005/Leet_code/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K092005/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/K092005/Leet_code/tree/master/0283-move-zeroes) |
@@ -59,6 +61,7 @@ leetcode-problem-submissions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/K092005/Leet_code/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/K092005/Leet_code/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
