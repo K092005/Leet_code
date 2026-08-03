@@ -76,6 +76,7 @@ leetcode-problem-submissions
 | [0197-rising-temperature](https://github.com/K092005/Leet_code/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/K092005/Leet_code/tree/master/0577-employee-bonus) |
 | [0626-exchange-seats](https://github.com/K092005/Leet_code/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/K092005/Leet_code/tree/master/0627-swap-sex-of-employees) |
 ## String
 |  |
 | ------- |
