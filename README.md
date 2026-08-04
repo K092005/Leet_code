@@ -13,6 +13,7 @@ leetcode-problem-submissions
 | [0283-move-zeroes](https://github.com/K092005/Leet_code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/K092005/Leet_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3731-find-missing-elements](https://github.com/K092005/Leet_code/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ leetcode-problem-submissions
 | [0036-valid-sudoku](https://github.com/K092005/Leet_code/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/K092005/Leet_code/tree/master/0133-clone-graph) |
 | [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/K092005/Leet_code/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ leetcode-problem-submissions
 | [0075-sort-colors](https://github.com/K092005/Leet_code/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/K092005/Leet_code/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/K092005/Leet_code/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
