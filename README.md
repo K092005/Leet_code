@@ -78,6 +78,7 @@ leetcode-problem-submissions
 | [0176-second-highest-salary](https://github.com/K092005/Leet_code/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/K092005/Leet_code/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/K092005/Leet_code/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/K092005/Leet_code/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/K092005/Leet_code/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/K092005/Leet_code/tree/master/0627-swap-sex-of-employees) |
 ## String
