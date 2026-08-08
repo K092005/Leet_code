@@ -86,6 +86,7 @@ leetcode-problem-submissions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/K092005/Leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/K092005/Leet_code/tree/master/0022-generate-parentheses) |
+| [0402-remove-k-digits](https://github.com/K092005/Leet_code/tree/master/0402-remove-k-digits) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/K092005/Leet_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Math
 |  |
@@ -124,4 +125,16 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/K092005/Leet_code/tree/master/0036-valid-sudoku) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/K092005/Leet_code/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/K092005/Leet_code/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/K092005/Leet_code/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
