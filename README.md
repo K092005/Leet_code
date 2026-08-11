@@ -76,6 +76,7 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/K092005/Leet_code/tree/master/0176-second-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/K092005/Leet_code/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/K092005/Leet_code/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/K092005/Leet_code/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/K092005/Leet_code/tree/master/0595-big-countries) |
