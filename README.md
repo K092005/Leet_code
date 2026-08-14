@@ -93,10 +93,12 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/K092005/Leet_code/tree/master/0007-reverse-integer) |
+| [0089-gray-code](https://github.com/K092005/Leet_code/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/K092005/Leet_code/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/K092005/Leet_code/tree/master/0089-gray-code) |
 | [1009-complement-of-base-10-integer](https://github.com/K092005/Leet_code/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
 |  |
@@ -122,6 +124,7 @@ leetcode-problem-submissions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/K092005/Leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/K092005/Leet_code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/K092005/Leet_code/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/K092005/Leet_code/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
