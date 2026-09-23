@@ -11,6 +11,7 @@ leetcode-problem-submissions
 | [0075-sort-colors](https://github.com/K092005/Leet_code/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K092005/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/K092005/Leet_code/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/K092005/Leet_code/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/K092005/Leet_code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/K092005/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/K092005/Leet_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -41,10 +42,12 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/K092005/Leet_code/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/K092005/Leet_code/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/K092005/Leet_code/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/K092005/Leet_code/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -131,6 +134,7 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/K092005/Leet_code/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/K092005/Leet_code/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
 | ------- |
@@ -143,4 +147,8 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/K092005/Leet_code/tree/master/0402-remove-k-digits) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/K092005/Leet_code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
