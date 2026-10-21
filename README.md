@@ -66,6 +66,7 @@ leetcode-problem-submissions
 | [0004-median-of-two-sorted-arrays](https://github.com/K092005/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/K092005/Leet_code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/K092005/Leet_code/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/K092005/Leet_code/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@ leetcode-problem-submissions
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/K092005/Leet_code/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/K092005/Leet_code/tree/master/0190-reverse-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/K092005/Leet_code/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
 |  |
