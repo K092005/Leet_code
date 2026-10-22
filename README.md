@@ -60,6 +60,7 @@ leetcode-problem-submissions
 | [0023-merge-k-sorted-lists](https://github.com/K092005/Leet_code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/K092005/Leet_code/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/K092005/Leet_code/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/K092005/Leet_code/tree/master/0328-odd-even-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
