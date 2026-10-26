@@ -92,6 +92,7 @@ leetcode-problem-submissions
 | [0595-big-countries](https://github.com/K092005/Leet_code/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/K092005/Leet_code/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/K092005/Leet_code/tree/master/0627-swap-sex-of-employees) |
+| [1158-market-analysis-i](https://github.com/K092005/Leet_code/tree/master/1158-market-analysis-i) |
 ## String
 |  |
 | ------- |
